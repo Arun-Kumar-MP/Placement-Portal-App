@@ -1,4 +1,4 @@
-# Placement Portal Application (PPA)
+# Placement Portal Application (PPA) – V2
 
 Placement Portal Application (PPA) is a role-based web platform designed to manage and automate campus recruitment activities within an institute. The system enables structured interaction between the Institute (Admin), Companies, and Students for managing placement drives, applications, approvals, and reporting.
 
